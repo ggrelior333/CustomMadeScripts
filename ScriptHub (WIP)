@@ -5,7 +5,7 @@ local Window = Starlight:CreateWindow({})
 
 local Dialog = Window:PromptDialog({
     Name = "Attention!",
-    Content = "I lowk dont know how you found this script lol, but it is far from done and honestly just testing stuff, but yeah this will be a script hub eventually.",
+    Content = "This script isnt finished, and will close automatically.",
     Type = 1,
     Actions = { 
         Primary = {
